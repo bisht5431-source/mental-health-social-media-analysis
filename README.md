@@ -24,7 +24,8 @@ This Power BI dashboard investigates the relationship between **social media hab
 
 ## 📸 Dashboard Preview
 
-<img width="1302" height="734" alt="Screenshot 2026-06-08 152313" src="https://github.com/user-attachments/assets/ba952135-3bd0-46e5-af86-9b06c215813f" />
+<img width="1302" height="730" alt="Screenshot 2026-06-09 140312" src="https://github.com/user-attachments/assets/ba82892c-dea8-432f-be6b-bbaf402ec6a4" />
+
 
 
 ```
